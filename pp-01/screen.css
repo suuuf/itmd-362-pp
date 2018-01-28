@@ -9,6 +9,29 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 /* Base Styles */
+html {
+    font-size: 1.25em; /* 20/16 = 1.25em */
+    line-height: 1.1em; /* 22/20 = 1.1em */
+}
+
+body {
+  padding-top: 3.3em; /* 66/20 = 3.3em */
+}
+
+main {
+  padding-right: 1.65em; /* 33/20 = 1.65em */
+  padding-left: 1.65em; /* 33/20 = 1.65em */
+}
+
+ol,
+ul {
+  padding-bottom: 0.55em; /* 11/20 = 0.55 */
+  font-family: Georgia, serif;
+}
+
+ul li {
+    padding-bottom: 0.5em; /* 10/20 = 0.5 */
+}
 
 /* Layout Styles */
 
