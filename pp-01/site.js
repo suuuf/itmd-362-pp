@@ -17,7 +17,7 @@ $("#contact-form").on("submit",
     
         //Validate Phone
         var phone = $("#phone").val();
-        if(/.d{10}/.test(phone)){
+        if(phone.length == 10){
            valid.push(1);
             if($("#phone-section").find("li").hasClass("error")){
                 $("#phone-section").find(".error").remove();
