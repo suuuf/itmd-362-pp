@@ -205,7 +205,11 @@ input {
 /* Modular Styles */
 
 .error {
-    color: #FF0000;
+    color: #d9534f;
+}
+
+.success {
+    color:#5cb85c;
 }
 
 /* State Styles */
