@@ -2,13 +2,13 @@ $("#contact-form").on("submit",
   function (e) {
     var valid = [];
     var current = new Date();
-    
+
     // Get All input values
     var email = $("#email").val();
     var phone = $("#phone").val();
     var dob = new Date($("#birthday").val());
     e.preventDefault();
-  
+
     // Validate Email
     if (/.@/.test(email)) {
       valid.push(1);
