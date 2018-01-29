@@ -10,6 +10,6 @@ $("#contact-form").on("submit",
         else {
             valid.push(0);
             $("#email-section").append("<li class='error'>Invalid email address.</li>");
-        }   
+        }
     }
 );

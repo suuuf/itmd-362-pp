@@ -204,4 +204,8 @@ input {
 
 /* Modular Styles */
 
+.error {
+    color: #FF0000;
+}
+
 /* State Styles */
