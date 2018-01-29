@@ -1,5 +1,6 @@
 $("#contact-form").on("submit",
     function (e) {
+        e.preventDefault();
         var valid = [];
     
         //Validate Email
