@@ -19,18 +19,12 @@ body {
 }
 
 main {
-  padding-right: 1.65em; /* 33/20 = 1.65em */
-  padding-left: 1.65em; /* 33/20 = 1.65em */
-}
-
-ol,
-ul {
-  padding-bottom: 0.55em; /* 11/20 = 0.55 */
-  font-family: Georgia, serif;
+  padding-right: 1.1em; /* 22/20 = 1.1em */
+  padding-left: 1.1em; /* 22/20 = 1.1em */
 }
 
 ul li {
-    padding-bottom: 0.5em; /* 10/20 = 0.5 */
+    padding-bottom: 1.1em; /* 22/20 = 0.55 */
 }
 
 /* Layout Styles */
