@@ -27,14 +27,43 @@ $("#contact-form").on("submit",
             }
         }
     
-        //Validate Age
+        //Validate Age 18+
         var current = new Date();
         var dob = new Date($("#birthday").val());
-        if(current.getFullYear - dob.getFullYear > 18){
+        if(current.getFullYear() - dob.getFullYear() > 18){
             valid.push(1);
+            if($("#birthday-section").find("li").hasClass("error")){
+                $("#birthday-section").find(".error").remove();
+            }
+
         }
-        else if(current.getFullYear - dob.getFullYear == 18){
-            
+        else if(current.getFullYear() - dob.getFullYear() == 18){
+            if(dob.getMonth() > current.getMonth()){
+                valid.push(0);
+                if(!$("#birthday-section").find("li").hasClass("error")){
+                    $("#birthday-section").append("<li class='error'>Sorry you are under 18.</li>");
+                }
+            }
+            else if(dob.getMonth() == current.getMonth()){
+                if(dob.getDate() > current.getDate()){
+                    valid.push(0);
+                    if(!$("#birthday-section").find("li").hasClass("error")){
+                        $("#birthday-section").append("<li class='error'>Sorry you are under 18.</li>");
+                    }
+                }
+                else{
+                    valid.push(1);
+                    if($("#birthday-section").find("li").hasClass("error")){
+                        $("#birthday-section").find(".error").remove();
+                    }
+                }
+            }
+            else{
+                valid.push(1);
+                if($("#birthday-section").find("li").hasClass("error")){
+                    $("#birthday-section").find(".error").remove();
+                }
+            }
         }
         else{
             valid.push(0);
