@@ -180,12 +180,12 @@ textarea {
 
 /* Base Styles */
 
-html {
+html .stylelint {
   font-size: 1.25em; /* 20/16 = 1.25em */
   line-height: 1.1em; /* 22/20 = 1.1em */
 }
 
-body {
+body .stylelint {
   padding-top: 3.3em; /* 66/20 = 3.3em */
 }
 
