@@ -77,5 +77,17 @@ $("#contact-form").on("submit",
                 $("#birthday-section").append("<li class='error'>Sorry you are under 18.</li>");
             }
         }
+    
+        //Submit if all valid
+        if(!valid.includes(0)){
+            if(!$("#contact-form").find("li").hasClass("success")){
+                $("#contact-form").find("ul").append("<li class='success'><p>Form Submitted Successfully!</p></li>");
+            }
+        }
+        else{
+            if($("#contact-form").find("li").hasClass("success")){
+                $("#contact-form").find(".success").remove();
+            }
+        }
     }
 );
