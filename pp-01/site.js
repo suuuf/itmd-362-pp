@@ -6,7 +6,10 @@ $("#contact-form").on("submit",
         //Validate Email
         var email = $("#email").val();
         if(/.@/.test(email)){
-           valid.push(1); 
+           valid.push(1);
+           if($("#email-section").find("li").hasClass("error")){
+                $("#email-section").find(".error").remove();
+            }
         }
         else {
             valid.push(0);
