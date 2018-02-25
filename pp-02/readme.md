@@ -37,10 +37,10 @@ Once you have cloned the forked copy, you should add the *group* repository as a
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here: 
-group	https://github.com/CotermCoders/itmd362-project2 (fetch)
-group	https://github.com/CotermCoders/itmd362-project2 (push)
-origin	https://github.com/suuuf/itmd362-project2.git (fetch)
-origin	https://github.com/suuuf/itmd362-project2.git (push)
+- group	    https://github.com/CotermCoders/itmd362-project2 (fetch)
+- group     https://github.com/CotermCoders/itmd362-project2 (push)
+- origin	https://github.com/suuuf/itmd362-project2.git (fetch)
+- origin	https://github.com/suuuf/itmd362-project2.git (push)
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
