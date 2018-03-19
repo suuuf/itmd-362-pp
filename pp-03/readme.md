@@ -16,8 +16,8 @@ Your Rationale: I think a teal color pallette is good on the eyes and is origina
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52h100kl7mra7ADfPs7qnh4x3az
+Your Rationale: The different shades of green, yellow, and teal represent the spring season pretty well. I lowered the brightness, so the color would be easier on the eyes. The primary colors can be the different shades of green, and the teal and yellow can accent the green.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
