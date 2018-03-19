@@ -21,8 +21,8 @@ Your Rationale: The different shades of green, yellow, and teal represent the sp
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=344180klzm0aD-9gpryqYguyBa1
+Your Rationale: For kids I think the colors need to be a bit birghter to keep their attention, so I chose a primarly blue pallette with red and green accents. The colors are very distinct from each other, and can easily be used to show importance for example a failed login or a successful one. Using muter shades of blue for the background and brighter shades for the foreground will also help.
 
 4. A custom color palette for advertising a course on cybersecurity
 
