@@ -26,5 +26,5 @@ Your Rationale: For kids I think the colors need to be a bit birghter to keep th
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=a5-1F0kkrkr7oxFehq8rHeoEF8n
+Your Rationale: For an advertisement I like to keep the message simple and to the point, so I decided to go with a 2 color custom pallette. I don't want to have a lot of colors because it might distract from the message. I chose red with an accent color of gold and shades ranging from white to black. The red is bold and important text can be easily read and understood. the gold with black text could be used for secondary text. 
