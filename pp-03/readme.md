@@ -11,8 +11,8 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=13a0u0kllllaFw0g0qFqFg0w0aF
+Your Rationale: I think a teal color pallette is good on the eyes and is original enough to distinguish the product from its competitors who primary use dark blue, limeish green, and white.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
