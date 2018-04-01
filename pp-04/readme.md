@@ -27,8 +27,8 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/views/scroll-views/
+* How you implemented it in your sketch: The myIIT login page has a lot of important information on it when you are not logged in. So, I made the main view the myIIT login and when the user scrolls it will show the auxillary info that the page has. The scrolling indicators will stil exist and an indicator will be there for the user to return to the login view.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
