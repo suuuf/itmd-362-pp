@@ -28,10 +28,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/views/scroll-views/
-* How you implemented it in your sketch: The myIIT login page has a lot of important information on it when you are not logged in. So, I made the main view the myIIT login and when the user scrolls it will show the auxillary info that the page has. The scrolling indicators will stil exist and an indicator will be there for the user to return to the login view
+* How you implemented it in your sketch: The myIIT login page has a lot of important information on it when you are not logged in. So, I made the main view the myIIT login and when the user scrolls it will show the auxiliary info that the page has. The scrolling indicators will stil exist and an indicator will be there for the user to return to the login view
 
 * HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/
 * How you implemented it in your sketch: The username and password are text fields and they have hints within them to explain to the user on what they are. The text field are relatively large to make them easy to see. I could have made the user enter the username first and validate the username then ask for password, but this conflicts with the scroll view.
 
 * HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
-* How you implemented it in your sketch: 
+* How you implemented it in your sketch: I kept a slight margin in the sketch and overall kept the elements spaced out. All the elements are very blocky and it is pretty easy to reorganize the elements when resizing or changing orientation. On larger screen I can implement a splitivew where the login view is on the left side and the auxiliary info 
