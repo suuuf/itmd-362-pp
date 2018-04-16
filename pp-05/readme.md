@@ -20,13 +20,13 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Responsive
+2. Clear call for action
+3. Consistent Page styles and layout
+4. Forms are simple and not overwhelming
+5. Colors aren't distracting
+6. Load times are reasonable
+7. Font is easy to read
+8. Navigation/header and footer are consistent on every page
+9. Forms have error checking and confirmation
+10. Important content is displayed first
